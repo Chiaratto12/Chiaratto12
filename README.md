@@ -1,11 +1,13 @@
-Welcome to my Git!
+## 👋 Olá, eu sou João Silva!
+🔹 Desenvolvedor Back-End | Especialista em Bancos de Dados  
+🔹 Experiência com AWS, Firebase, APIs REST e GraphQL  
 
->I'm looking foward for a job in game development
+### 🚀 Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-This is my social medias:
+🔗  | [LinkedIn]((https://www.linkedin.com/in/eduardo-chiaratto-807a86208/)) | [E-mail](mailto:eduardo.chiaratoo0@gmail.com)
 
--[Linkedin](https://www.linkedin.com/in/eduardo-chiaratto-807a86208/)
-
--Email: [eduardo.chiaratto05@gmail.com]()
-
--[Portfolio](https://www.behance.net/eduardochiarat)
+---
+"Code, Deploy, Automate!" 🚀
