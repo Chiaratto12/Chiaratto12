@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou João Silva!
+## 👋 Olá, eu sou Eduardo Chiaratto!
 🔹 Desenvolvedor Back-End | Especialista em Bancos de Dados  
 🔹 Experiência com AWS, Firebase, APIs REST e GraphQL  
 
