@@ -46,7 +46,7 @@ Atualmente, atuo em projetos que envolvem **APIs serverless**, **integração co
 
 <h2 align="center">🌎 Onde me encontrar</h2>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/eduardo-chiaratto-807a86208/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-chiaratto-807a86208/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:eduardo.chiaratto05@gmail.com">
