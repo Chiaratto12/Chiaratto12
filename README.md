@@ -46,13 +46,13 @@ Atualmente, atuo em projetos que envolvem **APIs serverless**, **integração co
 
 <h2 align="center">🌎 Onde me encontrar</h2>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/eduardo-chiaratto-807a86208/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/eduardo-chiaratto-807a86208/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:eduardo.chiaratto05@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://seuportfolio.com](https://www.behance.net/eduardochiarat)" target="_blank">
+  <a href="https://www.behance.net/eduardochiarat" target="_blank">
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%231abc9c?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
