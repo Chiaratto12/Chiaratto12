@@ -27,8 +27,8 @@ Atualmente, atuo em projetos que envolvem **APIs serverless**, **integração co
 
 <h2 align="center">📊 Estatísticas</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiaratto12&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chiaratto12&theme=radical"/>
 </div>
 
 ---
